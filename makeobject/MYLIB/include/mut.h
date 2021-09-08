@@ -1,0 +1,1 @@
+int mut(int a,int b);
